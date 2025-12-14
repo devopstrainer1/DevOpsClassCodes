@@ -34,4 +34,5 @@ jobs:
       uses: actions/upload-artifact@v6.0.0
       with:
         name: address-war
+        path: target/addressbook.war
       
